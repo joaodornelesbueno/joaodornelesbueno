@@ -1,11 +1,10 @@
-### Olá! 
-
-Deixar um legado!
-Founder at ideyas.it 💡
+## Olá! ⚓🚀🌍🦓 ##
+Vamos empreender e construirmos juntos negócios globais! 
+Empreendedor #GrowthMindset 
+Founder at ideyas.it 
 
 Líder de negócios e equipe.
 Com visão estratégica, criatividade, design, inovação e gestão!
-
 Confio no empreendedorismo para resolver problemas, mudar cenários e criar novas soluções.
 
 Foco: 🎯
