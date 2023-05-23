@@ -1,7 +1,11 @@
 ## Olá! ⚓🚀🌍🦓 ##
 Vamos empreender e construirmos juntos negócios globais!  
 Empreendedor #GrowthMindset  
-Founder at ideyas.it 
+Founder at ideyas.it {https://github.com/ideyasit}  
+:email: {joaodorneles@ideyas.it}
+<div>
+<a href="https://www.linkedin.com/in/joaodornelesbueno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
 
 Líder de negócios e equipe.  
 Com visão estratégica, criatividade, design, inovação e gestão!  
