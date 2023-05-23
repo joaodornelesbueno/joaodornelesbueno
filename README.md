@@ -1,6 +1,6 @@
 ### Olá! 
 
-Deixar um legado! ⤵
+Deixar um legado!
 Founder at ideyas.it 💡
 
 Líder de negócios e equipe.
