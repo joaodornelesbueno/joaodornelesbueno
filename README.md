@@ -1,3 +1,5 @@
+![linkedin_capa_ideyas](https://github.com/ideyasit/.github/assets/45001308/032f39df-7c9c-404e-a224-f546381ba966)
+
 ## Olá! ⚓🚀🌍🦓 ##
 Vamos empreender e construirmos juntos negócios globais!  
 Empreendedor #GrowthMindset  
