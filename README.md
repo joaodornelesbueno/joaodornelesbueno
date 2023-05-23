@@ -25,7 +25,7 @@ Deixar um legado!
 
 “A vida é sobre criar impacto, não uma renda" #KevinKruse  
 
-![Snake animation](https://github.com/joaodornelesbueno/joaodornelesbueno/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/joaodornelesbueno/joaodornelesbueno/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **joaodornelesbueno/joaodornelesbueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
