@@ -1,7 +1,7 @@
 ![linkedin_capa_ideyas](https://github.com/ideyasit/.github/assets/45001308/032f39df-7c9c-404e-a224-f546381ba966)
 
-## Olá! ⚓🚀🌍🦓 ##
-Vamos empreender e construirmos juntos negócios globais!  
+## Olá! ⚓🌍 ##
+Vamos juntos construirmos negócios globais!
 Empreendedor #GrowthMindset  
 Founder at ideyas.it { https://github.com/ideyasit }  
 :email: { joaodorneles@ideyas.it }
@@ -13,14 +13,22 @@ Líder de negócios e equipe.
 Com visão estratégica, criatividade, design, inovação e gestão!  
 Confio no empreendedorismo para resolver problemas, mudar cenários e criar novas soluções.  
 
-Foco: 🎯  
-Nas pessoas.  
-Em gerar valor.  
-Novas Experiências.  
-Crescimento.  
-Aprender todos os dias.  
-Melhorar a vida do outro.   
-Melhorar o mundo.  
+Founder at ideyas.it
+Product Leadership & Business Development at ideyas Innovation
+Business Development at ideyas Digital
+Business Development at ideyas Design
+Business Development at ideyas Technology
+
+:: Foco + impacto de causa! ⚓
+Nas pessoas.
+Nas empresas.
+Nos portos.
+Em gerar valor.
+Novas Experiências.
+Crescimento.
+Aprender todos os dias.
+Melhorar a vida do outro.
+Melhorar o mundo.
 Deixar um legado!   
 
 “A vida é sobre criar impacto, não uma renda" #KevinKruse  
