@@ -9,9 +9,9 @@ Founder at ideyas.it { https://github.com/ideyasit }
 <a href="https://www.linkedin.com/in/joaodornelesbueno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-Líder de negócios e equipe.  
-Com visão estratégica, criatividade, design, inovação e gestão!  
-Confio no empreendedorismo para resolver problemas, mudar cenários e criar novas soluções.  
+Líder de negócios e equipe.
+Com visão estratégica, criatividade, design, inovação e gestão!
+Confio no empreendedorismo para resolver problemas, mudar cenários e criar novas soluções.
 
 Founder at ideyas.it
 Product Leadership & Business Development at ideyas Innovation
