@@ -3,6 +3,7 @@
 ## Olá! ⚓🌍 ##
 Vamos juntos construirmos negócios globais! <br/>
 Empreendedor #GrowthMindset <br/>
+
 Founder at ideyas.it { https://github.com/ideyasit }  
 :email: { joaodorneles@ideyas.it }
 <div>
