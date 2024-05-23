@@ -2,34 +2,34 @@
 
 ## Olá! ⚓🌍 ##
 Vamos juntos construirmos negócios globais! <br/>
-Empreendedor #GrowthMindset  
+Empreendedor #GrowthMindset <br/>
 Founder at ideyas.it { https://github.com/ideyasit }  
 :email: { joaodorneles@ideyas.it }
 <div>
 <a href="https://www.linkedin.com/in/joaodornelesbueno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 <br/>
-Líder de negócios e equipe.
-Com visão estratégica, criatividade, design, inovação e gestão!
-Confio no empreendedorismo para resolver problemas, mudar cenários e criar novas soluções.
+Líder de negócios e equipe.<br/>
+Com visão estratégica, criatividade, design, inovação e gestão!<br/>
+Confio no empreendedorismo para resolver problemas, mudar cenários e criar novas soluções.<br/>
 
-Founder at ideyas.it
-Product Leadership & Business Development at ideyas Innovation
-Business Development at ideyas Digital
-Business Development at ideyas Design
-Business Development at ideyas Technology
+Founder at ideyas.it<br/>
+Product Leadership & Business Development at ideyas Innovation<br/>
+Business Development at ideyas Digital<br/>
+Business Development at ideyas Design<br/>
+Business Development at ideyas Technology<br/>
 
-:: Foco + impacto de causa! ⚓
-Nas pessoas.
-Nas empresas.
-Nos portos.
-Em gerar valor.
-Novas Experiências.
-Crescimento.
-Aprender todos os dias.
-Melhorar a vida do outro.
-Melhorar o mundo.
-Deixar um legado!   
+:: Foco + impacto de causa! ⚓<br/>
+Nas pessoas.<br/>
+Nas empresas.<br/>
+Nos portos.<br/>
+Em gerar valor.<br/>
+Novas Experiências.<br/>
+Crescimento.<br/>
+Aprender todos os dias.<br/>
+Melhorar a vida do outro.<br/>
+Melhorar o mundo.<br/>
+Deixar um legado!<br/>   
 
 “A vida é sobre criar impacto, não uma renda" #KevinKruse  
 
