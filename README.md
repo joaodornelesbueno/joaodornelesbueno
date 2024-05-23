@@ -4,7 +4,11 @@
 Vamos juntos construirmos negócios globais! <br/>
 Empreendedor #GrowthMindset <br/>
 
-Founder at ideyas.it { https://github.com/ideyasit }  
+Founder at ideyas.it { https://github.com/ideyasit } <br/>
+Product Leadership & Business Development at ideyas Innovation<br/>
+Business Development at ideyas Digital<br/>
+Business Development at ideyas Design<br/>
+Business Development at ideyas Technology<br/>
 :email: { joaodorneles@ideyas.it }
 <div>
 <a href="https://www.linkedin.com/in/joaodornelesbueno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
@@ -13,12 +17,6 @@ Founder at ideyas.it { https://github.com/ideyasit }
 Líder de negócios e equipe.<br/>
 Com visão estratégica, criatividade, design, inovação e gestão!<br/>
 Confio no empreendedorismo para resolver problemas, mudar cenários e criar novas soluções.<br/>
-
-Founder at ideyas.it<br/>
-Product Leadership & Business Development at ideyas Innovation<br/>
-Business Development at ideyas Digital<br/>
-Business Development at ideyas Design<br/>
-Business Development at ideyas Technology<br/>
 
 :: Foco + impacto de causa! ⚓<br/>
 Nas pessoas.<br/>
