@@ -17,7 +17,7 @@ Business Development at ideyas Technology<br/>
 Líder de negócios e equipe.<br/>
 Com visão estratégica, criatividade, design, inovação e gestão!<br/>
 Confio no empreendedorismo para resolver problemas, mudar cenários e criar novas soluções.<br/>
-
+<br/>
 :: Foco + impacto de causa! ⚓<br/>
 Nas pessoas.<br/>
 Nas empresas.<br/>
@@ -29,8 +29,8 @@ Aprender todos os dias.<br/>
 Melhorar a vida do outro.<br/>
 Melhorar o mundo.<br/>
 Deixar um legado!<br/>   
-
-“A vida é sobre criar impacto, não uma renda" #KevinKruse  
+<br/>
+“A vida é sobre criar impacto, não uma renda" #KevinKruse <br/> 
 
 ![Snake animation](https://github.com/joaodornelesbueno/joaodornelesbueno/blob/output/github-contribution-grid-snake.svg)
 
