@@ -1,17 +1,21 @@
 ![linkedin_capa_ideyas](https://github.com/ideyasit/.github/assets/45001308/032f39df-7c9c-404e-a224-f546381ba966)
 
 ## Olá! ⚓🌍 ##
-Vamos juntos construirmos negócios globais! <br/>
+Vamos juntos construirmos negócios globais! ;) <br/>
+<br/>
 Empreendedor #GrowthMindset <br/>
-Líder de negócios e equipe.<br/>
-Com visão estratégica, criatividade, design, inovação e gestão!<br/>
+Com +20 anos gerando valor e resultados na indústria de software, em liderança de produtos, desenvolvimento de negócios e inovação tecnológica. <br/>
+<br/>
+Movido por visão estratégica, criatividade, design, criar novas experiências, inovação e gestão.<br/>
 Confio no empreendedorismo para resolver problemas, mudar cenários e criar novas soluções.<br/>
+E acredito que inovação é a soma de arte com tecnologia!<br/> 
 <br/>
 Founder at ideyas.it { https://github.com/ideyasit } <br/>
 Product Leadership & Business Development at ideyas Innovation<br/>
 Business Development at ideyas Digital<br/>
 Business Development at ideyas Design<br/>
 Business Development at ideyas Technology<br/>
+[Cultura & Pessoas. Produto & Estratégia.]<br/>
 :email: { joaodorneles@ideyas.it }
 <div>
 <a href="https://www.linkedin.com/in/joaodornelesbueno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
@@ -29,7 +33,19 @@ Melhorar a vida do outro.<br/>
 Melhorar o mundo.<br/>
 Deixar um legado!<br/>   
 <br/>
-“A vida é sobre criar impacto, não uma renda" #KevinKruse <br/> 
+Especialidades: ✅<br/>
+Pessoas;<br/>
+Product Leadership & Business Development;<br/>
+Design Thinking + Lean UX + Agile;<br/>
+Método Ágil (Modelo Híbrido > Lean+Scrum+Kanban);<br/>
+Tecnologia + Inovação (software, product leader, news startups);<br/>
+Digital + Design (marketing, growth, data driven, mindset design);<br/>
+MBA em Governança de TI;<br/>
+Pós-Graduado em Consultoria e Implantação de Sistemas de Informação;<br/>
+Pós-Graduado em Gestão Empresarial com Ênfase em Finanças;<br/>
+Graduado em Sistemas de Informação;<br/>
+<br/>
+“A vida é sobre criar impacto, não uma renda" #KevinKruse<br/>
 
 ![Snake animation](https://github.com/joaodornelesbueno/joaodornelesbueno/blob/output/github-contribution-grid-snake.svg)
 
