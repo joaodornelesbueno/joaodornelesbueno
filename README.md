@@ -12,13 +12,14 @@ Product Leadership & Business Development at ideyas Innovation<br/>
 Business Development at ideyas Digital<br/>
 Business Development at ideyas Design<br/>
 Business Development at ideyas Technology<br/>
-[Cultura & Pessoas. Produto & Estratégia.]<br/>
 :email: { joaodorneles@ideyas.it }
 <div>
 <a href="https://www.linkedin.com/in/joaodornelesbueno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 <br/>
 :: Foco + impacto de causa! ⚓<br/>
+Em cultura & pessoas.<br/>
+Em produto & estratégia.<br/>
 Nas pessoas.<br/>
 Nas empresas.<br/>
 Nos portos.<br/>
@@ -42,7 +43,7 @@ Pós-Graduado em Consultoria e Implantação de Sistemas de Informação;<br/>
 Pós-Graduado em Gestão Empresarial com Ênfase em Finanças;<br/>
 Graduado em Sistemas de Informação;<br/>
 <br/>
-“A vida é sobre criar impacto, não uma renda" #KevinKruse<br/>
+“A vida é sobre criar impacto, não uma renda" #KevinKruse ;)<br/>
 
 ![Snake animation](https://github.com/joaodornelesbueno/joaodornelesbueno/blob/output/github-contribution-grid-snake.svg)
 
