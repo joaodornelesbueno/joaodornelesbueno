@@ -20,7 +20,6 @@ Business Development at ideyas Technology<br/>
 :: Foco + impacto de causa! ⚓<br/>
 Em cultura & pessoas.<br/>
 Em produto & estratégia.<br/>
-Nas pessoas.<br/>
 Nas empresas.<br/>
 Nos portos.<br/>
 Em gerar valor.<br/>
