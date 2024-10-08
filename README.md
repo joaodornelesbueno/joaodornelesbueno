@@ -3,12 +3,9 @@
 Olá! Vamos juntos construirmos negócios globais!⚓🌍 <br/>
 Empreendedor #GrowthMindset com +20 anos gerando valor e resultados na indústria de software, em liderança de produtos, pessoas e desenvolvimento de negócios. <br/>
 <br/>
-Empreendedor #GrowthMindset <br/>
-Com +20 anos gerando valor e resultados na indústria de software, em liderança de produtos, desenvolvimento de negócios e inovação tecnológica. <br/>
-<br/>
-Movido por visão estratégica, criatividade, design, criar novas experiências, inovação e gestão.<br/>
-Confio no empreendedorismo para resolver problemas, mudar cenários e criar novas soluções.<br/>
-E acredito que inovação é a soma de arte com tecnologia!<br/> 
+Movido por visão estratégica, tecnologia, design, digital, novas experiências, inovação com propósito e gestão. <br/>
+Confio no empreendedorismo para resolver problemas, mudar cenários e criar novas soluções. <br/>
+E acredito que inovação é a soma de arte com tecnologia! <br/>
 <br/>
 Founder at ideyas.it { https://github.com/ideyasit } <br/>
 Product Leadership & Business Development at ideyas Innovation<br/>
