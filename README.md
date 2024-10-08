@@ -1,7 +1,7 @@
 ![linkedin_capa_ideyas](https://github.com/ideyasit/.github/assets/45001308/032f39df-7c9c-404e-a224-f546381ba966)
 
-## Olá! ⚓🌍 ##
-Vamos juntos construirmos negócios globais! ;) <br/>
+Olá! Vamos juntos construirmos negócios globais!⚓🌍 <br/>
+Empreendedor #GrowthMindset com +20 anos gerando valor e resultados na indústria de software, em liderança de produtos, pessoas e desenvolvimento de negócios. <br/>
 <br/>
 Empreendedor #GrowthMindset <br/>
 Com +20 anos gerando valor e resultados na indústria de software, em liderança de produtos, desenvolvimento de negócios e inovação tecnológica. <br/>
