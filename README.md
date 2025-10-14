@@ -14,6 +14,7 @@ Product Leadership & Business Development (ideyas Innovation, Digital, Design & 
 <a href="https://www.linkedin.com/in/joaodornelesbueno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 <br/>
+
 :: Foco + impacto de causa:  <br/>
 • Cultura & Pessoas <br/>
 • Produto & Estratégia <br/>
