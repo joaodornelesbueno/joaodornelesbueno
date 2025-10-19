@@ -6,7 +6,7 @@ Empreendedor com +20 anos na indústria de software, atuando em liderança de pr
 Acredito que empreendedorismo é a força para resolver problemas, transformar cenários e criar novas soluções. E que a verdadeira inovação nasce quando arte e tecnologia caminham juntas. <br/>
 
 <br/>
-Founder at ideyas.it { https://github.com/ideyasit } <br/>
+Founder ideyas.it | Product & Design { https://github.com/ideyasit } <br/>
 Product Leadership & Business Development (ideyas Innovation, Digital, Design & Technology). <br/>
 
 :email: { joaodorneles@ideyas.it }
