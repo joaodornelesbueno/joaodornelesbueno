@@ -1,7 +1,9 @@
 ![linkedin_capa_ideyas](https://github.com/ideyasit/.github/assets/45001308/032f39df-7c9c-404e-a224-f546381ba966)
 
 Vamos juntos construir negócios globais!⚓🌍 <br/>
+
 Founder da ideyas.it, construindo a ideyas e-lineup — uma plataforma SaaS B2B/H2H para operações industriais e portuárias, que evolui para uma camada AI-First de previsibilidade, inteligência operacional e apoio à tomada de decisão. <br/>
+
 Empreendedor com +20 anos na indústria de software, atuando em liderança de produtos, pessoas e desenvolvimento de negócios. Movido por visão estratégica, tecnologia, design, digital e inovação com propósito. <br/>
 <br/>
 Acredito que empreendedorismo é a força para resolver problemas, transformar cenários e criar novas soluções. E que a verdadeira inovação nasce quando arte e tecnologia caminham juntas. <br/>
