@@ -28,14 +28,14 @@ ideyas Innovation, Digital, Design & Technology. <br/>
 • Melhorar a vida do outro <br/>
 • Deixar um legado! <br/>
 
-Especialidades: ✅<br/>
+Especialidades: ✅
 - Pessoas, Product Leadership & Business Development  <br/>
 - Design Thinking + Lean UX + Agile <br/>
 - Método Ágil: Lean + Scrum + Kanban <br/>
 - Tecnologia + Inovação: software, startups e produtos digitais <br/>
 - Digital + Design: marketing, growth e data driven <br/>
 
-Formação: <br/>
+Formação:
 - MBA em Governança de TI  <br/>
 - Pós-graduação em Consultoria & Implantação de Sistemas  <br/>
 - Pós-graduação em Gestão Empresarial — Finanças <br/>
