@@ -1,13 +1,15 @@
 ![linkedin_capa_ideyas](https://github.com/ideyasit/.github/assets/45001308/032f39df-7c9c-404e-a224-f546381ba966)
 
-Olá! Vamos juntos construirmos negócios globais!⚓🌍 <br/>
+Vamos juntos construir negócios globais!⚓🌍 <br/>
+Founder da ideyas.it, construindo a ideyas e-lineup — uma plataforma SaaS B2B/H2H para operações industriais e portuárias, que evolui para uma camada AI-First de previsibilidade, inteligência operacional e apoio à tomada de decisão. <br/>
 Empreendedor com +20 anos na indústria de software, atuando em liderança de produtos, pessoas e desenvolvimento de negócios. Movido por visão estratégica, tecnologia, design, digital e inovação com propósito. <br/>
 <br/>
 Acredito que empreendedorismo é a força para resolver problemas, transformar cenários e criar novas soluções. E que a verdadeira inovação nasce quando arte e tecnologia caminham juntas. <br/>
 
 <br/>
-Founder ideyas.it | Product & Design { https://github.com/ideyasit } <br/>
-Product Leadership & Business Development (ideyas Innovation, Digital, Design & Technology). <br/>
+Product & Design. { https://github.com/ideyasit } <br/>
+Product Leadership & Business Development. <br/>
+ideyas Innovation, Digital, Design & Technology. <br/>
 
 :email: { joaodorneles@ideyas.it }
 <div>
@@ -27,20 +29,20 @@ Product Leadership & Business Development (ideyas Innovation, Digital, Design & 
 Especialidades: ✅<br/>
 - Pessoas, Product Leadership & Business Development  <br/>
 - Design Thinking + Lean UX + Agile <br/>
-- Método Ágil (Modelo Híbrido > Lean+Scrum+Kanban) <br/>
-- Tecnologia + Inovação (software, startups) <br/>
-- Digital + Design (marketing, growth, data driven) <br/>
+- Método Ágil: Lean + Scrum + Kanban <br/>
+- Tecnologia + Inovação: software, startups e produtos digitais <br/>
+- Digital + Design: marketing, growth e data driven <br/>
 
 Formação: <br/>
 - MBA em Governança de TI  <br/>
 - Pós-graduação em Consultoria & Implantação de Sistemas  <br/>
-- Pós-graduação em Gestão Empresarial (Finanças) <br/>
+- Pós-graduação em Gestão Empresarial — Finanças <br/>
 - Graduação em Sistemas de Informação <br/>
 <br/>
 Minha jornada é movida pela curiosidade, pelo pensamento design e pela construção de soluções que unem a sensibilidade da arte + tecnologia. Inovação só faz sentido quando gera valor real e humano!
 <br/>
 
-#Inovação #Startups #Software #Tecnologia #Liderança <br/>
+Constância por fora, arte na alma! 牡牛座 🜃 <br/>
 
 ![Snake animation](https://github.com/joaodornelesbueno/joaodornelesbueno/blob/output/github-contribution-grid-snake.svg)
 
