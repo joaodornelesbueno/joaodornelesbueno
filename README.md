@@ -2,17 +2,15 @@
 
 Vamos juntos construir negócios globais!⚓🌍 <br/>
 
-Founder da ideyas.it, construindo a ideyas e-lineup — uma plataforma SaaS B2B/H2H para operações industriais e portuárias, que evolui para uma camada AI-First de previsibilidade, inteligência operacional e apoio à tomada de decisão. <br/>
+Founder ideyas.it, construindo a ideyas e-lineup — uma plataforma SaaS B2B/H2H para operações industriais e portuárias, que evolui para uma camada AI-First de previsibilidade, inteligência operacional e apoio à tomada de decisão. <br/>
 
 Empreendedor com +20 anos na indústria de software, atuando em liderança de produtos, pessoas e desenvolvimento de negócios. Movido por visão estratégica, tecnologia, design, digital e inovação com propósito. <br/>
 <br/>
-Acredito que empreendedorismo é a força para resolver problemas, transformar cenários e criar novas soluções. E que a verdadeira inovação nasce quando arte e tecnologia caminham juntas. <br/>
+Acredito que o empreendedorismo é uma força para resolver problemas, transformar cenários e criar novas soluções. E que a verdadeira inovação nasce quando arte e tecnologia caminham juntas. <br/>
+
+Minha atuação conecta Product Leadership, Business Development, Design Thinking, Lean UX, Agile, tecnologia, software, startups, produtos digitais, marketing, growth e cultura data driven. <br/>
 
 <br/>
-Product & Design. { https://github.com/ideyasit } <br/>
-Product Leadership & Business Development. <br/>
-ideyas Innovation, Digital, Design & Technology. <br/>
-
 :email: { joaodorneles@ideyas.it }
 <div>
 <a href="https://www.linkedin.com/in/joaodornelesbueno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
@@ -27,13 +25,6 @@ ideyas Innovation, Digital, Design & Technology. <br/>
 • Aprender todos os dias <br/>
 • Melhorar a vida do outro <br/>
 • Deixar um legado! <br/>
-
-Especialidades: ✅
-- Pessoas, Product Leadership & Business Development  <br/>
-- Design Thinking + Lean UX + Agile <br/>
-- Método Ágil: Lean + Scrum + Kanban <br/>
-- Tecnologia + Inovação: software, startups e produtos digitais <br/>
-- Digital + Design: marketing, growth e data driven <br/>
 
 Formação:
 - MBA em Governança de TI  <br/>
