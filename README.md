@@ -2,7 +2,7 @@
 
 Vamos juntos construir negócios globais!⚓🌍 <br/>
 
-Founder ideyas.it, construindo a ideyas e-lineup — uma plataforma SaaS B2B/H2H para operações industriais e portuárias, que evolui para uma camada AI-First de previsibilidade, inteligência operacional e apoio à tomada de decisão. <br/>
+Founder ideyas.it, construindo a ideyas e-lineup: produto SaaS B2B/H2H, AI-First, Human-centered e Human-led para operações industriais, logísticas e portuárias. Que evolui para uma camada AI-First de previsibilidade, inteligência operacional e apoio à tomada de decisão. <br/>
 
 Empreendedor com +20 anos na indústria de software, atuando em liderança de produtos, pessoas e desenvolvimento de negócios. Movido por visão estratégica, tecnologia, design, digital e inovação com propósito. <br/>
 <br/>
